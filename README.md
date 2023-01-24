@@ -11,7 +11,7 @@ Resposta:
 Os principais campos são compostos por:
 Chave primaria = PK
 Chave Estrangeira = FK
-E o campo Id que compõe cada entidade e as torna unicas e faceis de identifica-las.
+E o campo Id que compõe cada entidade e as torna únicas e fáceis de identifica-las.
 
 
 
